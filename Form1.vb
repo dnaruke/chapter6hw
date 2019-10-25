@@ -1,7 +1,7 @@
 ﻿'Author: Daiki Naruke
 'Date: 10/25/19
 'Description: This program asks the user for the completion times of each team member for up to 10 team members
-'and then calculates the average completion time for the team
+'and then calculates the average completion time for the team.
 Public Class frmCornMaze
     Private Sub Label1_Click(sender As Object, e As EventArgs) Handles lblTitle.Click
 
