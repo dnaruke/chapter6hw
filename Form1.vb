@@ -14,6 +14,7 @@ Public Class frmCornMaze
 
     Private Sub btnTimes_Click(sender As Object, e As EventArgs) Handles btnTimes.Click
 
+        'Variables needed for the program
         Dim strCompletionTime As String = ""
         Dim decCompletionTime As Decimal
         Dim decTotalCompletionTime As Decimal = 0
