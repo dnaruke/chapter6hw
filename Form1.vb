@@ -1,4 +1,5 @@
-﻿'Author: Daiki Naruke
+﻿'Program Name: Corn Maze Average Time
+'Author: Daiki Naruke
 'Date: 10/25/19
 'Description: This program asks the user for the completion times of each team member for up to 10 team members
 'and then calculates the average completion time for the team.
